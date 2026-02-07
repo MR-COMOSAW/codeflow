@@ -1,0 +1,15 @@
+body {
+  margin:0;
+  background:black;
+  overflow:hidden;
+  font-family:monospace;
+}
+
+h1 {
+  position:fixed;
+  top:20px;
+  width:100%;
+  text-align:center;
+  color:#00ffcc;
+  text-shadow:0 0 15px #00ffcc;
+}
